@@ -1,0 +1,224 @@
+        body {
+            width: 80%;
+            padding: 2;
+            margin: auto;
+            box-sizing: border-box;
+            background-image: url(img/bg-body.png);
+        }
+        
+        .container {
+            float: left;
+            width: 100%;
+        }
+        
+        .logo {
+            display: flex;
+            margin-top: 15px;
+            width: 180px;
+            margin-left: 50%;
+        }
+        
+        .logo-1 {
+            justify-self: center;
+            border-radius: 50%;
+            border: 2px solid gray;
+        }
+        
+        .links {
+            display: flex;
+            position: relative;
+            right: 50px;
+            width: 1180px;
+            margin-top: 30px;
+        }
+        
+        .foto2 {
+            width: 1180px;
+        }
+        
+        .links1 {
+            margin: 20px;
+            height: 50px;
+            width: 180px;
+            background-color: lightgray;
+            list-style-type: none;
+            text-align: center;
+            font-weight: bolder;
+            line-height: 50px;
+            box-sizing: border-box;
+        }
+        
+        .taca {
+            display: flex;
+            margin-top: 30px;
+            padding: 0;
+            width: 380px;
+        }
+        
+        .newAzul {
+            position: absolute;
+            margin-top: 30px;
+            margin-left: 300px;
+        }
+        
+        .ampliar1 {
+            position: absolute;
+            top: 770px;
+            background-color: black;
+            opacity: 0.7;
+            height: 30px;
+            text-align: center;
+            font-weight: bolder;
+            line-height: 30px;
+            color: white;
+            width: 380px;
+        }
+        
+        .ampliar4 {
+            position: absolute;
+            top: 1150px;
+            bottom: 0px;
+            background-color: black;
+            opacity: 0.7;
+            height: 30px;
+            text-align: center;
+            font-weight: bolder;
+            line-height: 30px;
+            color: white;
+            width: 380px;
+        }
+        
+        .section l1 {
+            width: 1180px;
+        }
+        
+        .l2 {
+            width: 1180px;
+            display: flex;
+        }
+        
+        .p1 {
+            text-align: justify;
+            width: 380px;
+        }
+        /*...*/
+        
+        .newGratis {
+            position: absolute;
+            margin-top: 30px;
+            margin-left: 300px;
+        }
+        
+        .ampliar2 {
+            position: absolute;
+            top: 770px;
+            background-color: black;
+            opacity: 0.7;
+            height: 30px;
+            text-align: center;
+            font-weight: bolder;
+            line-height: 30px;
+            color: white;
+            width: 380px;
+            margin-left: 20px;
+        }
+        
+        .ampliar5 {
+            position: absolute;
+            top: 1150px;
+            background-color: black;
+            opacity: 0.7;
+            height: 30px;
+            text-align: center;
+            font-weight: bolder;
+            line-height: 30px;
+            color: white;
+            width: 380px;
+            margin-left: 20px;
+        }
+        
+        .temperos {
+            display: flex;
+            margin-top: 30px;
+            padding: 0;
+            width: 380px;
+            margin-left: 20px;
+        }
+        /*...*/
+        
+        .p3 {
+            text-align: justify;
+            width: 380px;
+            margin-left: 20px;
+        }
+        
+        .p2 {
+            text-align: justify;
+            width: 380px;
+            margin-left: 20px;
+        }
+        
+        .off {
+            position: absolute;
+            margin-top: 30px;
+            margin-left: 300px;
+        }
+        
+        .ampliar3 {
+            position: absolute;
+            top: 770px;
+            background-color: black;
+            opacity: 0.7;
+            height: 30px;
+            text-align: center;
+            font-weight: bolder;
+            line-height: 30px;
+            color: white;
+            width: 380px;
+            margin-left: 20px;
+        }
+        
+        .ampliar6 {
+            position: absolute;
+            top: 1150px;
+            background-color: black;
+            opacity: 0.7;
+            height: 30px;
+            text-align: center;
+            font-weight: bolder;
+            line-height: 30px;
+            color: white;
+            width: 380px;
+            margin-left: 20px;
+        }
+        
+        .resta {
+            display: flex;
+            margin-top: 30px;
+            padding: 0;
+            width: 380px;
+            margin-left: 20px;
+        }
+        
+        .l3 {
+            width: 1180px;
+            display: flex;
+        }
+        /*..*/
+        
+        .rodape {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-around;
+            width: 1000px;
+            background-color: red;
+            border-radius: 10px 10px 0px 0px;
+            height: 50px;
+            padding: 10px;
+            margin-left: 50px;
+        }
+        
+        .rodape1 {
+            list-style-type: none;
+            font-weight: bolder;
+        }
